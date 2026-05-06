@@ -1,0 +1,6 @@
+digraph AST {
+  node [shape=box, style="rounded,filled", fontname="Arial"];
+  edge [arrowhead=vee];
+  rankdir=TB; // 从上到下的布局
+
+}

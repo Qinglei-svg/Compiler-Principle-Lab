@@ -1,0 +1,18 @@
+# Visual Studio 配置文件
+.vs/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.tlog
+*.log
+
+# 编译生成文件
+x64/
+Debug/
+Release/
+*.obj
+*.exe
+*.dll
+*.ilk
+*.pdb
